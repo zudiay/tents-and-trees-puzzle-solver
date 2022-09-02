@@ -45,3 +45,6 @@ The program is implemented in pure functional programming style. ie there are no
 • Any of these constructs: begin, begin0, when, unless, for, for*, do, loop,set!-values, let. <br>
 • Any language construct that starts with for/ or for*/.<br>
 • Any construct that causes any form of mutation (impurity).<br>
+
+<i> Developed for CMPE 260 Principles of Programming Languages course, Bogazici University Computer Engineering, Spring 2020. <i>
+
